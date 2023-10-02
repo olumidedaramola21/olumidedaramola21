@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Olumide Daramola](C:\Users\ccayo\Videos\olumidedaramola21\github.png)
-
 ```yaml
 49 20 61 6D 20 73 70 65 63 69 61 6C
 ```
