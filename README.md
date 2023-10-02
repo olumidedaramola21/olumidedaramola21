@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Olumide Daramola](https://github.com/alii/alii/blob/master/github.png)
+
 ```yaml
 49 20 61 6D 20 73 70 65 63 69 61 6C
 ```
