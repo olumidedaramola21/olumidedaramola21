@@ -1,8 +1,6 @@
-### Hi there 👋
-Odin gave his eye for knowledge, I would give far more
-```yaml
-49 20 61 6D 20 73 70 65 63 69 61 6C
-```
+
+**Odin gave his eye for knowledge, I would give far more**
+
 
 <!--
 **olumidedaramola21/olumidedaramola21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
