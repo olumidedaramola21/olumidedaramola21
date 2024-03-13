@@ -1,5 +1,5 @@
 
-**Odin gave his eye for knowledge, I would give far more**
+*Odin sacrificed his eye for knowledge, I would give far more***
 
 
 <!--
