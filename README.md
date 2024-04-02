@@ -1,5 +1,10 @@
 
-*Odin sacrificed his eye for knowledge, I would give far more***
+*
+
+I am a poet, words are my code,
+Crafting verses, where thought and logic abode.
+
+***
 
 
 <!--
