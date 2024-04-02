@@ -1,10 +1,8 @@
 
-*
 
-I am a poet, words are my code,
-Crafting verses, where thought and logic abode.
 
-***
+*I am a poet, words are my code,
+Crafting verses, where thought and logic abode.***
 
 
 <!--
