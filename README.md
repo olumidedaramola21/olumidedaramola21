@@ -1,7 +1,7 @@
 
 
 
-Software developer
+*Working with attention. Its all we need.*
 
 
 <!--
