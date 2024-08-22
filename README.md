@@ -1,7 +1,9 @@
+## Olumide.
 
 
+swe, infra & Product
 
-*SWE, Product*
+anime also :)
 
 
 <!--
