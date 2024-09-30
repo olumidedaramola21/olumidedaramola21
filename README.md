@@ -1,7 +1,7 @@
 ## Big Olu.
 
 
-swe, infra & Product
+SWE, Infra & Product
 
 anime also :)
 
